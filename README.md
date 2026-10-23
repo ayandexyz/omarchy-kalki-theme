@@ -1,4 +1,4 @@
-# Ancient Indian Theme
+# Kalki Theme
 
 An Omarchy theme inspired by the pigments, stones, and textiles of the Indian subcontinent — temple sandstone, sindoor vermillion, turmeric gold, peepal green, indigo, and lotus pink on a charred-temple dark canvas.
 
@@ -12,7 +12,7 @@ An Omarchy theme inspired by the pigments, stones, and textiles of the Indian su
 ## Install (local development)
 
 ```bash
-cp -r omarchy-ancient-indian-theme ~/.config/omarchy/themes/
+cp -r omarchy-kalki-theme ~/.config/omarchy/themes/
 ```
 
 Then pick it from the Omarchy theme menu (Super + Alt + Space → Style → Theme).
@@ -23,7 +23,7 @@ Then pick it from the Omarchy theme menu (Super + Alt + Space → Style → Them
 Super + Alt + Space → Install → Style → Theme → <repo URL>
 ```
 
-Recommended name: `omarchy-ancient-indian-theme` (becomes `ancient-indian` in the menu).
+Recommended name: `omarchy-kalki-theme` (becomes `kalki` in the menu).
 
 ## What's included
 
@@ -39,4 +39,4 @@ Recommended name: `omarchy-ancient-indian-theme` (becomes `ancient-indian` in th
 
 ## Distributing
 
-The name follows the `omarchy-<themename>-theme` convention so it shows as `ancient-indian` in the menu. Don't ship `.lua`, terminal configs, or `vscode.json` — those get stripped on install for security. Build the theme around colors only.
+The name follows the `omarchy-<themename>-theme` convention so it shows as `kalki` in the menu. Don't ship `.lua`, terminal configs, or `vscode.json` — those get stripped on install for security. Build the theme around colors only.

@@ -1,4 +1,4 @@
-# Ancient Indian Theme — Color Reference
+# Kalki Theme — Color Reference
 
 ## Core palette
 
